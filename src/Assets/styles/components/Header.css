@@ -1,5 +1,5 @@
 .header{
-    background-color:#3EA6FF;
+    background-color:rgb(62, 166, 255);
     display: flex;
     align-items: center;
 }
@@ -17,7 +17,7 @@
 
 .header__menu{
     position: relative;
-    left: 1025px;
+    left: 970px;
     margin-left: 40px;
     display: flex;
     flex-direction: column;
@@ -35,4 +35,16 @@
 
 .header__userName{
     margin: 0;
+}
+
+.header__button{
+    position: relative;
+    left: 955px;
+    top: 17px;
+    background-color:rgb(136, 195, 247);
+    border: none;
+    border-radius: 20px;
+    padding: 5px 5px;
+    cursor: pointer;
+
 }

@@ -39,20 +39,23 @@ const Login = ()=>{
 
     return(
         <div className="login">
-                <div className="login__form--container">
-                    <h2>Sign in</h2>
-                    <form className="login__form">
-                        <h5>Email </h5>
-                        <input type="email" value={email} onChange={event => setEmail(event.target.value)} className="login__email"/>
+            <div className="login__form--container">
+                
+                <img className="form--img" src="https://fotos.subefotos.com/2da379363e2b0da7723c61bb54b4b121o.png?fbclid=IwAR1gjbLHOuIz-93l-Q0CeEwVrEcHS4-u6kjKBPx7XJSdtwaR7HFb2xqLuk8"/>
+            
+                <form className="login__form">
+                        <h3>Sign In</h3>
+                    <input  required placeholder=" &#9993;   Email..." type="email" value={email} onChange={event => setEmail(event.target.value)} className="login__text"/>
 
-                        <h5>Password</h5>
-                        <input type="password" value={password} onChange={event => setPassword(event.target.value)} className="login__password"/>
                     
-                        <input type="submit" value="Sign In" onClick={login}/>
-                    </form>
+                    <input required placeholder="  &#10055;  Password..." type="password" value={password} onChange={event => setPassword(event.target.value)} className="login__text"/>
+                    
+                    <input className="login__form--button" type="submit" value="Sign In" onClick={login}/>
+                </form>
 
-                    <button onClick={register}>Create Account & log in</button>
-                </div>
+            
+                <button className="register__form--button" onClick={register}>Create Account & log in</button>
+            </div>
         </div>
     )
 }

@@ -29,7 +29,7 @@ const Header = ({user})=>{
                 }
             </div>
 
-            {user === 0 ? null : <button onClick={()=>{auth.signOut()}  }>Log Out</button>}
+            {user === 0 ? null : <button onClick={()=>{auth.signOut()}  } className="header__button">Log Out</button>}
         </nav>
     )
 }
