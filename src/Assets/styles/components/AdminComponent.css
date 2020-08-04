@@ -1,0 +1,14 @@
+.admin--id{
+    position: relative;
+    left: 150px;
+}
+
+.admin--title{
+    position: relative;
+    right: 86px;
+}
+
+.admin--body{
+    position: relative;
+    right: 234px;
+}
