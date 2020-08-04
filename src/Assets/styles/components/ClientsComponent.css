@@ -1,0 +1,28 @@
+.titles{
+    display: flex;
+    justify-content: space-between;
+    
+    border-bottom: 1px solid rgb(189, 189, 189);
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+}
+
+.id--clients{
+    position: relative;
+    left: 57px;
+}
+
+.name--clients{
+    position: relative;
+    right: 150px;
+}
+
+.status--clients{
+    position: relative;
+    right: 235px;
+}
+
+.industry--clients{
+    position: relative;
+    right: 330px;
+}

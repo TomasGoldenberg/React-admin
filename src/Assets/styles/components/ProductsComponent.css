@@ -1,0 +1,27 @@
+.titles{
+    display: flex;
+    justify-content: space-between;
+    
+    border-bottom: 1px solid rgb(189, 189, 189);
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+}
+
+.id--products{
+    position: relative;
+    left: 56px;
+}
+
+.name--products{
+    position: relative;
+    right: 155px;
+}
+
+.stock--products{
+    position: relative;
+    right: 257px;
+}
+.price--products{
+    position: relative;
+    right: 350px;
+}

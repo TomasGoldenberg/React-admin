@@ -1,0 +1,25 @@
+.titles{
+    display: flex;
+    justify-content: space-between;
+    
+    border-bottom: 1px solid rgb(189, 189, 189);
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+}
+
+.id{
+    position: relative;
+    left: 55px;
+}
+.title{
+    position: relative;
+    right: 144px;
+}
+.date{
+    position: relative;
+    right: 233px;
+}
+.client{
+    position: relative;
+    right: 332px; 
+}

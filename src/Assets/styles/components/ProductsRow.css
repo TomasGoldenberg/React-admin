@@ -1,0 +1,32 @@
+.productsRow{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.products__item{
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 180px;
+}
+
+.productsRow:hover{
+    background-color: rgba(237, 237, 237);
+}
+
+
+.products__id{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    width: 20px;
+
+}
+
+.products__data{
+ padding-top:5px ;
+ padding-bottom:5px ;
+
+
+}

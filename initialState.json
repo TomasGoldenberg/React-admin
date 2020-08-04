@@ -1,0 +1,568 @@
+{
+  "initialState":{
+
+    "orders":[
+      {
+        "id":1,
+        "title": "Website fix",
+        "date": "12/05/2020",
+        "client": "M.A.R INC"
+      },
+      {
+        "id":2,
+        "title": "Web app Dev",
+        "date": "05/06/2020",
+        "client": "Sancor Seguros"
+      },
+      {
+        "id":3,
+        "title": "Software Development",
+        "date": "08/04/2020",
+        "client": "Michellin INC"
+      },
+      {
+        "id":4,
+        "title": "DB migration",
+        "date": "21/06/2020",
+        "client": "La serenisima"
+      },
+      {
+        "id":5,
+        "title": "AI Library ",
+        "date": "23/05/2020",
+        "client": "Facebook"
+      },
+      {
+        "id":6,
+        "title": "Mobile App Fix",
+        "date": "12/05/2020",
+        "client": "Slack"
+      },
+      {
+        "id":7,
+        "title": "Out sourcing Jobs",
+        "date": "12/05/2020",
+        "client": "Globant"
+      },
+      {
+        "id":8,
+        "title": "Pay sistem integration",
+        "date": "12/05/2020",
+        "client": "MELI"
+      },
+      {
+        "id":9,
+        "title": "Website fix",
+        "date": "12/05/2020",
+        "client": "M.A.R INC"
+      },
+      {
+        "id":10,
+        "title": "Website fix",
+        "date": "12/05/2020",
+        "client": "M.A.R INC"
+      },
+      {
+        "id":11,
+        "title": "Website fix",
+        "date": "12/05/2020",
+        "client": "M.A.R INC"
+      },
+      {
+        "id":12,
+        "title": "Mobile App migration",
+        "date": "11/04/2020",
+        "client": "LifeSecure"
+      },
+      {
+        "id":13,
+        "title": "Website fix",
+        "date": "12/05/2020",
+        "client": "M.A.R INC"
+      },
+      {
+        "id":14,
+        "title": "Website fix",
+        "date": "12/05/2020",
+        "client": "M.A.R INC"
+      },
+      {
+        "id":15,
+        "title": "Website fix",
+        "date": "12/05/2020",
+        "client": "M.A.R INC"
+      },
+      {
+        "id":16,
+        "title": "Website fix",
+        "date": "12/05/2020",
+        "client": "M.A.R INC"
+      },
+      {
+        "id":17,
+        "title": "Website fix",
+        "date": "12/05/2020",
+        "client": "M.A.R INC"
+      },
+      {
+        "id":18,
+        "title": "Website fix",
+        "date": "12/05/2020",
+        "client": "M.A.R INC"
+      },
+      {
+        "id":19,
+        "title": "Website fix",
+        "date": "12/05/2020",
+        "client": "M.A.R INC"
+      },
+      {
+        "id":20,
+        "title": "Website fix",
+        "date": "12/05/2020",
+        "client": "M.A.R INC"
+      },
+      {
+        "id":21,
+        "title": "Website fix",
+        "date": "12/05/2020",
+        "client": "M.A.R INC"
+      },
+      {
+        "id":22,
+        "title": "Website fix",
+        "date": "12/05/2020",
+        "client": "M.A.R INC"
+      },
+      {
+        "id":23,
+        "title": "Website fix",
+        "date": "12/05/2020",
+        "client": "M.A.R INC"
+      },
+      {
+        "id":24,
+        "title": "Website fix",
+        "date": "12/05/2020",
+        "client": "M.A.R INC"
+      },
+      {
+        "id":25,
+        "title": "Website fix",
+        "date": "12/05/2020",
+        "client": "M.A.R INC"
+      },
+      {
+        "id":26,
+        "title": "Website fix",
+        "date": "12/05/2020",
+        "client": "M.A.R INC"
+      },
+      {
+        "id":27,
+        "title": "Website fix",
+        "date": "12/05/2020",
+        "client": "M.A.R INC"
+      },
+      {
+        "id":28,
+        "title": "Website fix",
+        "date": "12/05/2020",
+        "client": "M.A.R INC"
+      },
+      {
+        "id":29,
+        "title": "Website fix",
+        "date": "12/05/2020",
+        "client": "M.A.R INC"
+      },
+      {
+        "id":30,
+        "title": "Website fix",
+        "date": "12/05/2020",
+        "client": "M.A.R INC"
+      }
+    ],
+    "clients":[
+      {
+        "id":1,
+        "status":"Active",        
+        "name":"MELI",
+        "industry":"Retail"
+      },
+      {
+        "id":2,
+        "status":"Active",        
+        "name":"Globant",
+        "industry":"Software"
+      },
+      {
+        "id":3,
+        "status":"Active",        
+        "name":"Sancor Seguros",
+        "industry":"Seguros"
+      },
+      {
+        "id":4,
+        "status":"InActive",        
+        "name":"Slack",
+        "industry":"SAAS"
+      },
+      {
+        "id":5,
+        "status":"Inctive",        
+        "name":"Xerox",
+        "industry":"Hardware"
+      },
+      {
+        "id":6,
+        "status":"Inctive",        
+        "name":"Nokia",
+        "industry":"Telecomunications"
+      },
+      {
+        "id":7,
+        "status":"Active",        
+        "name":"Samsung",
+        "industry":"Celphones"
+      },
+      {
+        "id":8,
+        "status":"Active",        
+        "name":"Apple",
+        "industry":"Software"
+      },
+      {
+        "id":9,
+        "status":"Active",        
+        "name":"ZARA",
+        "industry":"Textile"
+      },
+      {
+        "id":10,
+        "status":"Active",
+        "name":"Fallabela",
+        "industry":"Retail"
+      },
+      {
+        "id":11,
+        "status":"Active",
+        "name":"Amazon",
+        "industry":"Retail"
+      },
+      {
+        "id":12,
+        "status":"Active",
+        "name":"Wallmart",
+        "industry":"Retail"
+      },
+      {
+        "id":13,
+        "status":"Active",
+        "name":"Baidu",
+        "industry":"Software"
+      },
+      {
+        "id":14,
+        "status":"Active",
+        "name":"MELI",
+        "industry":"Retail"
+      },
+      {
+        "id":15,
+        "status":"Active",
+        "name":"MELI",
+        "industry":"Retail"
+      },
+      {
+        "id":16,
+        "status":"Active",
+        "name":"MELI",
+        "industry":"Retail"
+      },
+      {
+        "id":17,
+        "status":"Active",
+        "name":"MELI",
+        "industry":"Retail"
+      },
+      {
+        "id":18,
+        "status":"Active",
+        "name":"MELI",
+        "industry":"Retail"
+      },
+      {
+        "id":19,
+        "status":"Active",
+        "name":"MELI",
+        "industry":"Retail"
+      },
+      {
+        "id":20,
+        "status":"Active",
+        "name":"MELI",
+        "industry":"Retail"
+      },
+      {
+        "id":21,
+        "status":"Active",
+        "name":"MELI",
+        "industry":"Retail"
+      },
+      {
+        "id":22,
+        "status":"Active",
+        "name":"MELI",
+        "industry":"Retail"
+      },
+      {
+        "id":23,
+        "status":"Active",
+        "name":"MELI",
+        "industry":"Retail"
+      },
+      {
+        "id":24,
+        "status":"Active",
+        "name":"MELI",
+        "industry":"Retail"
+      },
+      {
+        "id":25,
+        "status":"Active",
+        "name":"MELI",
+        "industry":"Retail"
+      },
+      {
+        "id":26,
+        "status":"Active",
+        "name":"MELI",
+        "industry":"Retail"
+      },
+      {
+        "id":27,
+        "status":"Active",
+        "name":"MELI",
+        "industry":"Retail"
+      },
+      {
+        "id":28,
+        "status":"Active",
+        "name":"MELI",
+        "industry":"Retail"
+      },
+      {
+        "id":29,
+        "status":"Active",
+        "name":"MELI",
+        "industry":"Retail"
+      },
+      {
+        "id":30,
+        "status":"Active",
+        "name":"MELI",
+        "industry":"Retail"
+      }
+    ],
+    "products":[
+      {
+        "id":1,
+        "name":"Web Apps",
+        "price":"99,99"
+      },
+      {
+        "id":2,
+        "name":"Mobile Apps",
+        "price":"419,99"
+      },
+      {
+        "id":3,
+        "name":"DB migrations",
+        "price":"100,99"
+      },
+      {
+        "id":4,
+        "name":"Ai Libraries",
+        "price":"299,99"
+      },
+      {
+        "id":5,
+        "name":"Devops operations",
+        "price":"199,99"
+      },
+      {
+        "id":6,
+        "name":"Software Dev",
+        "price":"99,99"
+      },
+      {
+        "id":7,
+        "name":"Desktop app",
+        "price":"59,89"
+      },
+      {
+        "id":8,
+        "name":"API Development",
+        "price":"999,99"
+      },
+      {
+        "id":9,
+        "name":"Marketing Consulting",
+        "price":"599,99"
+      },
+      {
+        "id":10,
+        "name":"Administation Systems",
+        "price":"58,88"
+      },
+      {
+        "id":11,
+        "name":"E-commerce",
+        "price":"59,99"
+      },
+      {
+        "id":12,
+        "name":"Mentoring",
+        "price":"59,99"
+      },
+      {
+        "id":13,
+        "name":"Product Development",
+        "price":"1059,99"
+      },
+      {
+        "id":14,
+        "name":"Outsourcing ",
+        "price":"159,99"
+      },
+      {
+        "id":15,
+        "name":"MELI",
+        "price":"105,99"
+      },
+      {
+        "id":16,
+        "name":"MELI",
+        "price":"105,99"
+      },
+      {
+        "id":1,
+        "name":"MELI",
+        "price":"105,99"
+      },
+      {
+        "id":17,
+        "name":"MELI",
+        "price":"105,99"
+      },
+      {
+        "id":18,
+        "name":"MELI",
+        "price":"105,99"
+      },
+      {
+        "id":19,
+        "name":"MELI",
+        "price":"105,99"
+      },
+      {
+        "id":20,
+        "name":"MELI",
+        "price":"105,99"
+      },
+      {
+        "id":21,
+        "name":"MELI",
+        "price":"105,99"
+      },
+      {
+        "id":22,
+        "name":"MELI",
+        "price":"105,99"
+      },
+      {
+        "id":23,
+        "name":"MELI",
+        "price":"105,99"
+      },
+      {
+        "id":24,
+        "name":"MELI",
+        "price":"105,99"
+      },
+      {
+        "id":25,
+        "name":"MELI",
+        "price":"105,99"
+      },
+      {
+        "id":26,
+        "name":"MELI",
+        "price":"105,99"
+      },
+      {
+        "id":27,
+        "name":"MELI",
+        "price":"105,99"
+      },
+      {
+        "id":28,
+        "name":"MELI",
+        "price":"105,99"
+      },
+      {
+        "id":29,
+        "name":"MELI",
+        "price":"105,99"
+      },
+      {
+        "id":30,
+        "name":"MELI",
+        "price":"105,99"
+      }
+    ],
+    "sales":[
+      {
+        "id":1,
+        "date": "01/05/2020",
+        "total": "5000"
+      },
+      {
+        "id":2,
+        "date": "02/05/2020",
+        "total": "6000"
+      },
+      {
+        "id":3,
+        "date": "03/05/2020",
+        "total": "4000"
+      },
+      {
+        "id":4,
+        "date": "04/05/2020",
+        "total": "4000"
+      },
+      {
+        "id":5,
+        "date": "05/05/2020",
+        "total": "8000"
+      },
+      {
+        "id":6,
+        "date": "06/05/2020",
+        "total": "7000"
+      },
+      {
+        "id":7,
+        "date": "07/05/2020",
+        "total": "15000"
+      },
+      {
+        "id":8,
+        "date": "08/05/2020",
+        "total": "20000"
+      }
+    ]
+  }
+  }

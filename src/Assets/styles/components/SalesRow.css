@@ -1,0 +1,33 @@
+.salesRow{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding-left: 20px;
+}
+
+.sales__item{
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 180px;
+}
+
+.salesRow:hover{
+    background-color: rgba(237, 237, 237);
+}
+
+
+.sales__id{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    width: 20px;
+
+}
+
+.sales__data{
+ padding-top:5px ;
+ padding-bottom:5px ;
+
+
+}

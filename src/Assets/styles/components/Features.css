@@ -1,0 +1,55 @@
+.features{
+    display: flex;
+    flex-direction: column;
+    width: 260px;
+    max-width: 260px;
+    background-color: white;
+    height: 870px;
+    flex: 1;
+    text-decoration: none !important;
+
+    border-right: 1px solid rgb(189, 189, 189);
+}
+
+.feature__item{
+    color:rgb(88, 88, 88);
+   border: 1px solid #ececec;
+    display:flex;
+    justify-content: flex-start;
+    align-items: center;
+    text-decoration: none !important;
+    padding-left: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+
+}
+
+
+.isAdmin, .isSales, .isOrders, .isClients, .isProducts{
+    background: #3EA6FF !important;
+    color: white ;
+
+}
+
+
+
+.feature__item:hover{
+    background: #ececec ;
+
+}
+
+.feature__title{
+    margin-left: 30px;
+    font-size: 20px;
+    font-weight: bolder;
+    text-decoration: none;
+    color:rgb(88, 88, 88);
+
+    
+}
+
+.link{
+    text-decoration: none;
+
+}

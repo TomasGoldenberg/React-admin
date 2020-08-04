@@ -1,0 +1,31 @@
+
+
+.titles{
+    display: flex;
+    justify-content: space-between;
+    
+    border-bottom: 1px solid rgb(189, 189, 189);
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+
+}
+
+.id--sales{
+    position: relative;
+    left:73px;
+}
+
+.date--sales{
+    position: relative;
+    right: 132px;
+}
+.total{
+    position: relative;
+    right: 342px;
+}
+
+.client--sales{
+    position: relative;
+    right: 250px;
+}
+
